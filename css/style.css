@@ -339,7 +339,6 @@ header {
     height: 18px;
     cursor: pointer;
   }
-	
   .header-menu__icon span,
 .header-menu__icon::before,
 .header-menu__icon::after {
